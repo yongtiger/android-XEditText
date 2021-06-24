@@ -1,4 +1,4 @@
-package cc.brainbook.android.xedittext;
+package cc.brainbook.android.widget;
 
 import android.annotation.SuppressLint;
 import android.content.ClipData;

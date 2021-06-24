@@ -1,4 +1,4 @@
-package cc.brainbook.android.xedittext.app;
+package cc.brainbook.android.widget.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import cc.brainbook.android.xedittext.XEditText;
+import cc.brainbook.android.widget.XEditText;
 
 public class MainActivity extends AppCompatActivity {
 
