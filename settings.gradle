@@ -1,0 +1,3 @@
+rootProject.name = "android-XEditText"
+include ':app'
+include ':library'
